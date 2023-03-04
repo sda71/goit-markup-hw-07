@@ -787,6 +787,7 @@ body {
 .modal {
   position: absolute;
   width: calc(100% - 36px);
+  max-height: 586px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
